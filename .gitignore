@@ -1,0 +1,13 @@
+# editor and IDE settings
+.idea/
+.iml
+
+# generated
+__pycache__/
+*.pyc
+
+# other
+*.txt
+
+# system
+.DS_Store
