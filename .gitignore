@@ -1,10 +1,10 @@
 # editor and IDE settings
 .idea/
-.iml
+*.iml
 
 # generated
-__pycache__/
-*.pyc
+out/
+*.class
 
 # other
 *.txt
